@@ -379,7 +379,24 @@ tests/test_api.py::test_churn_request_invalid_tenure     PASSED
 ✅ Health endpoint         — infrastructure-ready liveness check
 ```
 
+---
 
+## 👤 Author
+
+**Mrityunjay**
+- GitHub: [@mrityunjay835](https://github.com/mrityunjay835)
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+<div align="center">
+
+**Built step by step — every decision backed by data.**
 
 ⭐ Star this repo if you found it useful!
 
